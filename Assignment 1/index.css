@@ -1,0 +1,44 @@
+
+
+.product{
+    margin: 10px;
+    border: 1px solid black;
+    height: 240px;
+    width: 220px;
+    float: left;
+  
+}
+
+.image{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left:30px;
+}
+button{
+    position: relative;
+    top:5px;
+    left:20px;
+}
+
+nav{
+    background-color: white;
+
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    text-shadow: rgb(5, 5, 44);
+}
+.main-container{
+    padding: 50px;
+}
